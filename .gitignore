@@ -35,3 +35,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+## WATCHOUT: SEE IF INCLUDE AT FINAL COMMIT
+public/images/
